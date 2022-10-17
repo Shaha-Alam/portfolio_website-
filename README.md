@@ -1,4 +1,4 @@
-### 💼 Responsive Mini Portfolio
+### 💼 Responsive Portfolio Website
 
 - Responsive mini portfolio website Using Typescript & CSS
 - Contains animations css.
