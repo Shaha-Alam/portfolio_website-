@@ -50,7 +50,7 @@ export default function Main() {
                     <i className="ri-checkbox-circle-line"></i>
                     <div>
                       <h3 className="skills__name">HTML</h3>
-                      <span className="skills__level">Basic</span>
+                      <span className="skills__level">Advanced</span>
                     </div>
                   </div>
 
@@ -78,7 +78,7 @@ export default function Main() {
                     <i className="ri-checkbox-circle-line"></i>
                     <div>
                       <h3 className="skills__name">React</h3>
-                      <span className="skills__level">Intermediate</span>
+                      <span className="skills__level">Basic</span>
                     </div>
                   </div>
 
@@ -129,7 +129,7 @@ export default function Main() {
                     <i className="ri-checkbox-circle-line"></i>
                     <div>
                       <h3 className="skills__name">Firebase</h3>
-                      <span className="skills__level">Intermediate</span>
+                      <span className="skills__level">Basic</span>
                     </div>
                   </div>
                 </div>
@@ -147,7 +147,7 @@ export default function Main() {
                     <i className="ri-checkbox-circle-line"></i>
                     <div>
                       <h3 className="skills__name">Node Js</h3>
-                      <span className="skills__level">Intermediate</span>
+                      <span className="skills__level">Basic</span>
                     </div>
                   </div>
 

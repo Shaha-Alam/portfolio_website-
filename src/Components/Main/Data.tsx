@@ -8,7 +8,7 @@ export const projectsData = [
         id: 1,
         image: project1,
         title: "Product Analysis",
-        
+
         url: "https://09-assignment-product-analysis-website-shaha-alam.netlify.app/"
     },
     {
@@ -28,8 +28,8 @@ export const projectsData = [
     {
         id: 4,
         image: project4,
-        title: "Travel App",
+        title: "Balance Checker",
         url: "https://shaha-alam.github.io/05_DOM-JS--Balance-Checker_shaha-alam/"
     },
-    
+
 ]
