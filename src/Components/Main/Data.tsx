@@ -14,9 +14,9 @@ export const projectsData = [
     {
         id: 2,
         image: project2,
-        title: "Portfolio Site",
+        title: "Portfolio Website",
         subtitle: "Web",
-        url: ""
+        url: "http://localhost:3000/"
     },
     {
         id: 3,
